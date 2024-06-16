@@ -1,0 +1,11 @@
+1. git init
+2. git status
+3. git config --global user.email "tauhidalam805@gmail.com"
+4. git config --global user.name "Tauhid Alam"
+5. git status
+6. git add .
+7. git commit -m "initial message added"
+8. git status
+9. git branch -M master
+10. git remote add origin https://github.com/tauhidalam786/demo1.git
+11. git push -u origin master
